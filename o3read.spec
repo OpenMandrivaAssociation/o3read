@@ -10,6 +10,7 @@ Group: Text tools
 URL: http://siag.nu/o3read/
 Source: http://siag.nu/pub/o3read/%{name}-%{version}.tar.bz2
 License: GPL
+BuildRoot: %{_tmppath}/%{name}-root
 
 %description
 o3read is a standalone converter for OpenOffice.org and OpenDocument
