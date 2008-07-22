@@ -1,6 +1,6 @@
 %define name o3read
 %define version 0.0.4
-%define release %mkrel 1
+%define release %mkrel 3
 
 Name: %{name}
 Version: %{version}
