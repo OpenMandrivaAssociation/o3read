@@ -3,7 +3,7 @@ Version: 0.0.4
 Release: 6
 Summary: Converter for OpenOffice and OpenDocument files
 Group: Text tools
-URL: http://siag.nu/o3read/
+URL: https://siag.nu/o3read/
 Source: http://siag.nu/pub/o3read/%{name}-%{version}.tar.gz
 License: GPL
 
